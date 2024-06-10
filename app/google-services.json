@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "290956184359",
+    "project_id": "nirvana-15027",
+    "storage_bucket": "nirvana-15027.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290956184359:android:38866305bb2f3f401bf702",
+        "android_client_info": {
+          "package_name": "com.example.yogabuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzpIioNCkv_fRGiVRmb_lWuo_X6F29ffc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
