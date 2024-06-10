@@ -71,6 +71,17 @@ Nirvana follows the MVVM (Model-View-ViewModel) architecture to ensure a clean a
 - **ExoPlayer** - Robust audio playback for binaural beats
 - **Glide** - Fast and efficient image loading and caching
 
+## Screenshots and Demo 📸🎥
+
+### Mobile App Screenshots
+![Home Screen](https://yourimageurl.com/home-screen.png)
+![Meditation Session](https://yourimageurl.com/meditation-session.png)
+![Yoga Pose](https://yourimageurl.com/yoga-pose.png)
+
+### Demo Video
+Check out our demo video to see Nirvana in action!
+[![Demo Video](https://yourimageurl.com/demo-video-thumbnail.png)](https://yourvideourl.com/demo-video)
+
 ## Contributing 🤝
 
 We welcome contributions from the community! Here's how you can help:
@@ -107,4 +118,4 @@ Thank you for checking out Nirvana! We hope it helps you find peace and balance 
 
 ---
 
-Connectiview is developed and maintained by ASAP Coders.™
+*Nirvana is developed and maintained by ASAP Coders.™*
