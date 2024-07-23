@@ -97,11 +97,11 @@ Nirvana follows the MVVM (Model-View-ViewModel) architecture to ensure a clean a
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/paa-rth/Nirvana/blob/main/screenshots/five.png" alt="Screen 5" width="300" height="800"><br>
+      <img src="https://github.com/paa-rth/Nirvana/blob/main/screenshots/five.png" alt="Screen 5" width="300" height="650"><br>
       <b>Screen 5</b>
     </td>
     <td align="center">
-      <img src="https://github.com/paa-rth/Nirvana/blob/main/screenshots/six.png" alt="Screen 6" width="300" height="800"><br>
+      <img src="https://github.com/paa-rth/Nirvana/blob/main/screenshots/six.png" alt="Screen 6" width="300" height="650"><br>
       <b>Screen 6</b>
     </td>
   </tr>
