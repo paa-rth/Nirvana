@@ -1,6 +1,6 @@
 # Nirvana 🧘‍♂️📱
 
-<img src="https://github.com/paa-rth/Nirvana/blob/main/screenshots/Nirvana%20Banner%20New.png" lt="Niravna Banner">
+<img src="https://github.com/paa-rth/Nirvana/blob/main/screenshots/Nirvana%20Banner.png" lt="Niravna Banner">
 
 Welcome to **Nirvana**, a comprehensive meditation and relaxation application built with Kotlin for Android. Nirvana is your go-to app for achieving calmness, mindfulness, and a balanced lifestyle through meditation, yoga, and binaural beats. 🌟
 
