@@ -1,8 +1,9 @@
 # Nirvana 🧘‍♂️📱
 
+<img src="https://github.com/paa-rth/Nirvana/blob/main/screenshots/Nirvana%20Banner%20New.png" lt="Niravna Banner">
+
 Welcome to **Nirvana**, a comprehensive meditation and relaxation application built with Kotlin for Android. Nirvana is your go-to app for achieving calmness, mindfulness, and a balanced lifestyle through meditation, yoga, and binaural beats. 🌟
 
-![Nirvana Logo](https://yourimageurl.com/nirvana-logo.png)
 
 ## Features 🎉
 
@@ -73,14 +74,10 @@ Nirvana follows the MVVM (Model-View-ViewModel) architecture to ensure a clean a
 
 ## Screenshots and Demo 📸🎥
 
-### Mobile App Screenshots
-![Home Screen](https://yourimageurl.com/home-screen.png)
-![Meditation Session](https://yourimageurl.com/meditation-session.png)
-![Yoga Pose](https://yourimageurl.com/yoga-pose.png)
 
 ### Demo Video
 Check out our demo video to see Nirvana in action!
-[![Demo Video](https://yourimageurl.com/demo-video-thumbnail.png)](https://yourvideourl.com/demo-video)
+[![Demo Video](https://yourimageurl.com/demo-video-thumbnail.png)](https://drive.google.com/file/d/1ueU9NVsQuoVo1f2aYam0XZh7KoR8P4kY/view)
 
 ## Contributing 🤝
 
