@@ -76,67 +76,66 @@ Nirvana follows the MVVM (Model-View-ViewModel) architecture to ensure a clean a
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://github.com/paa-rth/Nirvana/blob/main/screenshots/one.png" alt="Screen 1" width="300" height="650"><br>
+    <td align="center" style="width: 50%;">
+      <img src="https://github.com/paa-rth/Nirvana/blob/main/screenshots/one.png" alt="Screen 1" style="width: 100%; height: auto; max-width: 300px;"><br>
       <b>Welcome Screen</b>
     </td>
-    <td align="center">
-      <img src="https://github.com/paa-rth/Nirvana/blob/main/screenshots/two.png" alt="Screen 2" width="300" height="650"><br>
+    <td align="center" style="width: 50%;">
+      <img src="https://github.com/paa-rth/Nirvana/blob/main/screenshots/two.png" alt="Screen 2" style="width: 100%; height: auto; max-width: 300px;"><br>
       <b>Sign In Screen</b>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://github.com/paa-rth/Nirvana/blob/main/screenshots/three.png" alt="Screen 3" width="300" height="650"><br>
+    <td align="center" style="width: 50%;">
+      <img src="https://github.com/paa-rth/Nirvana/blob/main/screenshots/three.png" alt="Screen 3" style="width: 100%; height: auto; max-width: 300px;"><br>
       <b>Register Screen</b>
     </td>
-    <td align="center">
-      <img src="https://github.com/paa-rth/Nirvana/blob/main/screenshots/four.png" alt="Screen 4" width="300" height="650"><br>
+    <td align="center" style="width: 50%;">
+      <img src="https://github.com/paa-rth/Nirvana/blob/main/screenshots/four.png" alt="Screen 4" style="width: 100%; height: auto; max-width: 300px;"><br>
       <b>Loading Screen</b>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://github.com/paa-rth/Nirvana/blob/main/screenshots/five.jpg" alt="Screen 5" width="300" height="900"><br>
+    <td align="center" style="width: 50%;">
+      <img src="https://github.com/paa-rth/Nirvana/blob/main/screenshots/five.jpg" alt="Screen 5" style="width: 100%; height: auto; max-width: 300px;"><br>
       <b>Home Screen</b>
     </td>
-    <td align="center">
-      <img src="https://github.com/paa-rth/Nirvana/blob/main/screenshots/six.jpg" alt="Screen 6" width="300" height="900"><br>
+    <td align="center" style="width: 50%;">
+      <img src="https://github.com/paa-rth/Nirvana/blob/main/screenshots/six.jpg" alt="Screen 6" style="width: 100%; height: auto; max-width: 300px;"><br>
       <b>Exercise Library</b>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://github.com/paa-rth/Nirvana/blob/main/screenshots/seven.png" alt="Screen 7" width="300" height="650"><br>
+    <td align="center" style="width: 50%;">
+      <img src="https://github.com/paa-rth/Nirvana/blob/main/screenshots/seven.png" alt="Screen 7" style="width: 100%; height: auto; max-width: 300px;"><br>
       <b>Exercise Tutorial Screen</b>
     </td>
-    <td align="center">
-      <img src="https://github.com/paa-rth/Nirvana/blob/main/screenshots/eight.png" alt="Screen 8" width="300" height="650"><br>
+    <td align="center" style="width: 50%;">
+      <img src="https://github.com/paa-rth/Nirvana/blob/main/screenshots/eight.png" alt="Screen 8" style="width: 100%; height: auto; max-width: 300px;"><br>
       <b>Meditation Screen</b>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://github.com/paa-rth/Nirvana/blob/main/screenshots/nine.png" alt="Screen 9" width="300" height="650"><br>
+    <td align="center" style="width: 50%;">
+      <img src="https://github.com/paa-rth/Nirvana/blob/main/screenshots/nine.png" alt="Screen 9" style="width: 100%; height: auto; max-width: 300px;"><br>
       <b>Music Library</b>
     </td>
-    <td align="center">
-      <img src="https://github.com/paa-rth/Nirvana/blob/main/screenshots/ten.png" alt="Screen 10" width="300" height="650"><br>
+    <td align="center" style="width: 50%;">
+      <img src="https://github.com/paa-rth/Nirvana/blob/main/screenshots/ten.png" alt="Screen 10" style="width: 100%; height: auto; max-width: 300px;"><br>
       <b>Playback Screen</b>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://github.com/paa-rth/Nirvana/blob/main/screenshots/eleven.png" alt="Screen 11" width="300" height="650"><br>
+    <td align="center" style="width: 50%;">
+      <img src="https://github.com/paa-rth/Nirvana/blob/main/screenshots/eleven.png" alt="Screen 11" style="width: 100%; height: auto; max-width: 300px;"><br>
       <b>Profile Screen</b>
     </td>
-    <td align="center">
-      <img src="https://github.com/paa-rth/Nirvana/blob/main/screenshots/twelve.png" alt="Screen 12" width="300" height="650"><br>
+    <td align="center" style="width: 50%;">
+      <img src="https://github.com/paa-rth/Nirvana/blob/main/screenshots/twelve.png" alt="Screen 12" style="width: 100%; height: auto; max-width: 300px;"><br>
       <b>Splash Screen</b>
     </td>
   </tr>
 </table>
-
 
 
 ### Demo Video
